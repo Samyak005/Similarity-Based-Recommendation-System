@@ -15,5 +15,5 @@ Reading of articles by readers on various blogs
 For a new user we will recommend the most popular movie i.e. the movie with the most interactions. 
 While implementing the function similar_users I used cosine similarity to compute the similarity between the users.
 
-![Alt text](images_github/collaborative_filtering.png?raw=true "Title")
-![Alt text](images_github/cosine.png?raw=true "Title")
+![Alt text](images_github/collaborative_filtering.PNG?raw=true "Title")
+![Alt text](images_github/cosine.PNG?raw=true "Title")
